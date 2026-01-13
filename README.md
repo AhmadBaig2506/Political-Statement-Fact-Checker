@@ -117,3 +117,27 @@ Relatively balanced dataset with slight under-representation of extreme lies.
   booktitle = {Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL)},
   year      = {2017}
 }
+
+## Contributing
+
+Contributions welcome! Areas of interest:
+- Feature engineering improvements
+- Alternative model architectures  
+- Visualization and analysis tools
+- Documentation and examples
+
+## License
+
+This project is licensed under the MIT License - see LICENSE file for details.
+
+## Acknowledgments
+
+- PolitiFact for original fact-checking work
+- William Yang Wang for creating and releasing the LIAR dataset
+- scikit-learn contributors for excellent ML tools
+
+---
+
+**If you found this project helpful, please give it a star!**
+
+**Questions or suggestions?** Open an issue or reach out!Claude is AI and can make mistakes. Please double-check responses.
