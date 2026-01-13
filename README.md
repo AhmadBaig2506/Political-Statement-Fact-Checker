@@ -1,4 +1,4 @@
-# Claim-credibility-estimation
+# Political Statement Fact Checker
 A machine learning system that classifies political statements as true or false using the LIAR dataset from PolitiFact. 
 
 # Project Overview
