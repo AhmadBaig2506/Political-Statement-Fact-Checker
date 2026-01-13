@@ -146,11 +146,11 @@ Contributions welcome! Areas of interest:
 - Visualization and analysis tools
 - Documentation and examples
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see LICENSE file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - PolitiFact for original fact-checking work
 - William Yang Wang for creating and releasing the LIAR dataset
